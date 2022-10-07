@@ -9,3 +9,5 @@ http.createServer( function(req, res){
 
 
 }).listen(1337, '127.0.0.1');
+//primero se pone node y el nombre del documento
+//jason server
